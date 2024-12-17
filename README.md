@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Backend Developer.<br>🌱 I’m currently learning NextJs and ThreeJs to make 3D interactive websites.<br>⚡ I have done Bachelors in Mechatronics Engineering.
+🔭 I’m currently working as a Backend Developer.<br>🌱 I’m currently learning Cloud Engineering.<br>⚡ I have done Bachelors in Mechatronics Engineering.
 
 
 ## 🌐 Socials:
